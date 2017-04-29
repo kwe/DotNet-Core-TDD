@@ -1,0 +1,1 @@
+Simple TDD and dotnet core 1.1 console app skeleton.
