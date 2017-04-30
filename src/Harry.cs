@@ -14,7 +14,7 @@ namespace Kwe
         }
         public string AddTwoStrings(string one, string two)
         {
-            return one+two;
+            return one+" "+two;
         }
     }
 }

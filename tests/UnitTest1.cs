@@ -24,7 +24,7 @@ namespace tests
         public void TestAddTwoStrings(){
             var _p = new Harry();
             var _newString = _p.AddTwoStrings("Hello", "World");
-            Assert.Equal(_newString,"HelloWorld");
+            Assert.Equal(_newString,"Hello World");
         }
     }
 }
